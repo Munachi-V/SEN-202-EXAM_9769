@@ -8,7 +8,7 @@ Performance Optimization & Deployment|
 **GitHub Username**: [Munachi-V](https://github.com/Munachi-V/) 
 ## question123
 
-## super user 
+## superuser 
 **Name**: Mgbenobi Munachimso Tehillah
 **password**: VUGSEN239769
 **email**:tehillahsimeon@gmail.com
